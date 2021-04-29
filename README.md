@@ -1,5 +1,5 @@
-# Yo!
-## 🙂
+# Yo! 🙂
+
 ### Just kinda making some stuff. Mostly aimless but having a good time
 
 ## Who is "kiecphrase"?
