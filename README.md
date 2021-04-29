@@ -1,11 +1,8 @@
 # Yo!
+### Just kinda making some stuff. Mostly aimless but having a good time 🙃
 
-![me](https://avatars.githubusercontent.com/u/22550310?v=4)
-
-## I do some coding sometimes 😎
-
----
-
-## But who is "kiecphrase"?
+## Who is "kiecphrase"?
 - Lol idk
 - I do coding sometimes though
+
+---
