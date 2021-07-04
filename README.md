@@ -9,3 +9,4 @@
 
 - [Compare the websites of various ministries of agriculture](https://kiecphrase.github.io/agsite/)
 - [Kinda bad blackjack game, lol](https://github.com/kiecphrase/blackjack_game)
+- [The worst CLUE sheet possible](https://github.com/kiecphrase/clue)
