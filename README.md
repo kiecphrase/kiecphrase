@@ -5,8 +5,9 @@
 ### python and webstuff, more to come (maybe???)
 
 ---
-## List of "projects"
+## Public Stuff
 
 - [Compare the websites of various ministries of agriculture](https://kiecphrase.github.io/agsite/)
 - [Kinda bad blackjack game, lol](https://github.com/kiecphrase/blackjack_game)
 - [An almost passing clue sheet](https://github.com/kiecphrase/clue)
+- [Extensions for VSCode I always install](https://github.com/kiecphrase/vscode_extensions)
