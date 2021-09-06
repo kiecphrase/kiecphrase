@@ -12,3 +12,4 @@
 - [An almost passing clue sheet](https://github.com/kiecphrase/clue)
 - [Extensions for VSCode I always install](https://github.com/kiecphrase/vscode_extensions)
 - [My personal journey through the best food form](https://github.com/kiecphrase/stewsday)
+- [Calculate how long it would take to watch your new favorite show](https://kiecphrase.github.io/bingeit/)
