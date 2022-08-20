@@ -1,4 +1,4 @@
-# Yo! 🙂
+# There are many ways to do something efficiently. Today I will choose none of them 🙂
 
 ### Just kinda making some stuff, ya know?
 
