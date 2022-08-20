@@ -15,3 +15,4 @@
 - [Simple hailstone series calculator](https://github.com/kiecphrase/hailstone_calc)
 - [Current DnD campaign](https://github.com/kiecphrase/whatWasLeft)
 - [Score your Nuzloke](https://kiecphrase.github.io/nuzlokescorecard/)
+- [Counting, but 13th century monks](https://github.com/kiecphrase/CountingShapes/)
