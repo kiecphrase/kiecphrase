@@ -13,6 +13,6 @@
 - [My personal journey through the best food form](https://github.com/kiecphrase/stewsday)
 - [Calculate how long it would take to watch your new favorite show](https://github.com/kiecphrase/bingeit)
 - [Simple hailstone series calculator](https://github.com/kiecphrase/hailstone_calc)
-- [Current DnD campaign](https://github.com/kiecphrase/whatWasLeft)
+- ~Current DnD campaign~
 - [Score your Nuzloke](https://kiecphrase.github.io/nuzlokescorecard/)
 - [Counting, but 13th century monks](https://github.com/kiecphrase/CountingShapes/)
