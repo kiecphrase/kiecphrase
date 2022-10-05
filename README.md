@@ -16,3 +16,4 @@
 - ~Current DnD campaign~
 - [Score your Nuzloke](https://kiecphrase.github.io/nuzlokescorecard/)
 - [Counting, but 13th century monks](https://github.com/kiecphrase/CountingShapes/)
+- ["Good" password generator](https://kiecphrase.github.io/passwordGenerator/)
