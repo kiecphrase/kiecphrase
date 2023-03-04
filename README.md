@@ -7,8 +7,10 @@
 - [My personal journey through the best food form](https://github.com/kiecphrase/stewsday)
 - [Score your Nuzloke](https://github.com/kiecphrase/nuzlokescorecard)
 - [Simple password generator](https://github.com/kiecphrase/passwordGenerator)
+- [Simple toy for creating calendar events](https://github.com/kiecphrase/calendartoy)
 - [Calculate how long it would take to watch your new favorite show](https://github.com/kiecphrase/bingeit)
 - [A quick clue sheet](https://github.com/kiecphrase/clue)
+
 
 
 ### Python
