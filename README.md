@@ -3,7 +3,6 @@
 ## Public Stuff
 
 ### Python
-- [Currently functional blackjack game](https://github.com/kiecphrase/blackjack_game)
 - [Simple hailstone series calculator](https://github.com/kiecphrase/hailstone_calc)
 - [Counting, but 13th century monks](https://github.com/kiecphrase/CountingShapes)
 
