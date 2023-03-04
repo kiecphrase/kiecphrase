@@ -12,5 +12,6 @@
 
 
 ### Python
+- [Work In Progress gotcha game for discord](https://github.com/kiecphrase/gotcha_game)
 - [Simple hailstone series calculator](https://github.com/kiecphrase/hailstone_calc)
 - [Counting, but 13th century monks](https://github.com/kiecphrase/CountingShapes)
