@@ -9,6 +9,7 @@
 - [Simple toy for creating calendar events](https://github.com/kiecphrase/calendartoy)
 - [Calculate how long it would take to watch your new favorite show](https://github.com/kiecphrase/bingeit)
 - [A quick clue sheet](https://github.com/kiecphrase/clue)
+- [Simple UI toy for DIY slide](https://github.com/kiecphrase/slide_over_toy)
 
 
 
