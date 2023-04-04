@@ -3,7 +3,6 @@
 ## Public Stuff
 
 ### Web
-- [Compare the websites of various ministries of agriculture](https://github.com/kiecphrase/agsite)
 - [My personal journey through the best food form](https://github.com/kiecphrase/stewsday)
 - [Score your Nuzloke](https://github.com/kiecphrase/nuzlokescorecard)
 - [Simple password generator](https://github.com/kiecphrase/passwordGenerator)
